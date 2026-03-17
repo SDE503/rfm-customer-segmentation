@@ -106,6 +106,36 @@ Created 11 distinct segments using RFM score combinations:
 
 ![Segment Analysis](dashboard/screenshots/02_segment_analysis.png)
 
+## 💼 Business Recommendations
+
+### 🚨 Immediate Actions:
+
+1. **Win-Back "At Risk" Customers** (218 customers, £1M revenue at stake)
+   - Send personalized email with 20% discount code
+   - Highlight new products matching past purchases
+   - **Expected recovery:** 15-20% (32-43 customers = £150-200K)
+
+2. **Urgent Outreach to "Need Attention"** (207 customers, £330K revenue)
+   - Personal phone calls from account managers
+   - Exclusive VIP offer (30% discount)
+   - These are high-value customers (£1,597 avg) - important to save
+
+### 🎯 Strategic Initiatives:
+
+3. **Launch Champions VIP Program** (1311 customers, £11.94M revenue)
+   - Early access to new products
+   - Exclusive loyalty rewards (points system)
+   - **Goal:** Increase repeat purchase rate by 15%
+
+4. **Re-Engage "About to Sleep"** (924 customers, £416K)
+   - Targeted email series over 3 weeks
+   - Product recommendations based on purchase history
+   - Limited-time incentives to drive urgency
+
+5. **Optimize Marketing Spend - Stop Targeting "Lost"** (134 customers, £197K, 1.13% of Revenue)
+   - Average value only £150 per customer
+   - Marketing cost exceeds potential return
+   - **Action:** Remove from active campaigns, reallocate budget to higher-value segments
 
 ## 🔧 Technical Highlights
 
@@ -128,6 +158,10 @@ Created 11 distinct segments using RFM score combinations:
 **Sherif Ejiwunmi**  
 Data Analyst | SQL • Python • Power BI  
 Manchester, UK
+
+- **LinkedIn:** linkedin.com/in/sherif-ejiwunmi-93005a218
+- **Email:** sherifejiwunmi@outlook.com
+- **GitHub:** github.com/SDE503
 
 ## 📄 Data Source
 
