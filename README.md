@@ -27,7 +27,6 @@ A UK-based online retailer needed to:
 - **Champions** (22.4% of customers) drive **68.5% of total revenue**
 - **At Risk** segment represents **~£1M in annual revenue** requiring urgent win-back campaigns
 - Average revenue per customer: **£2,975.42**
-- Identified **234 high-value customers** at risk of churning
 
 ## Technologies Used
 
@@ -132,17 +131,17 @@ Created 11 distinct segments using RFM score combinations:
    - Product recommendations based on purchase history
    - Limited-time incentives to drive urgency
 
-5. **Optimize Marketing Spend - Stop Targeting "Lost"** (134 customers, £197K, 1.13% of Revenue)
-   - Average value only £150 per customer
-   - Marketing cost exceeds potential return
+5. **Optimise Marketing Spend - Stop Targeting "Lost"** (134 customers, £197K)
+   - 1.13% of overall Revenue
+   - Average Recency ~500 days since last order
    - **Action:** Remove from active campaigns, reallocate budget to higher-value segments
 
 ## 🔧 Technical Highlights
 
-- **SQL Optimization:** Used CTEs and window functions for efficient calculation on 400K+ row dataset
+- **SQL Optimisation:** Used CTEs and window functions for efficient calculation on 400K+ row dataset
 - **Data Quality:** Implemented comprehensive cleaning rules reducing dataset by 27% for accuracy
 - **Scalability:** Modular SQL scripts can be automated for monthly/weekly RFM refresh
-- **Visualization Best Practices:** Color-coded segments (green=healthy, orange=risk, red=lost) for instant insights
+- **Visualisation Best Practices:** Color-coded segments (green=healthy, orange=risk, red=lost) for instant insights
 - **Business Context:** Every metric tied to actionable recommendation, not just reporting
 
 ## 🔄 Future Enhancements
